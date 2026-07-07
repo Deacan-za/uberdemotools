@@ -3,6 +3,8 @@
 #include "string.hpp"
 #include "utils.hpp"
 
+#include <cstdlib> // atoi: not transitively included by modern libstdc++
+
 
 /*
 73/90 -> 91
